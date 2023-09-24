@@ -1,5 +1,5 @@
 import styled, { keyframes } from "styled-components";
-import { Devices } from "../../Components/MediaQuery";
+import { Devices } from "../MediaQuery";
 
 export const HomeSection = styled.section`
   display: flex;

@@ -1,6 +1,8 @@
 import { createGlobalStyle } from "styled-components";
 import MontserratVariableTtf from "./src/assets/fonts/Montserrat-VariableFont_wght.ttf";
 // import MontserraVarableItalicTtf from "./assets/fonts/Montserrat-Italic-VariableFont_wght.ttf";
+import "/node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+import "/node_modules/@fortawesome/fontawesome-free/css/all.min.css";
 
 const GlobalStyle = createGlobalStyle`
 

@@ -4,7 +4,7 @@ import Home from "./Routes/Home/home";
 import Projects from "./Routes/Projects/projrcts";
 import Contact from "./Routes/Contact/contact";
 import Navbar from "./Components/Navbar/navbar.item";
-import Error_Page from "./Routes/Error_Page/errorPage";
+import Error_Page from "./Routes/ErrorPage/errorPage";
 import Resume from "./Routes/Resume/resume";
 import FooterBar from "./Components/Footer/FooterBar";
 import GlobalStyle from "../globalstyle";
