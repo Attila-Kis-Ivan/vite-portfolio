@@ -13,8 +13,8 @@ import {
   Btn,
   FlipcardFrontBackground,
 } from "./project-item.styles.jsx";
-// import { CgWebsite } from "react-icons/cg";
-// import { BsGithub } from "react-icons/bs";
+import { CgWebsite } from "react-icons/cg";
+import { BsGithub } from "react-icons/bs";
 
 const ProjectItem = ({ project }) => {
   const { title, imageUrl, description, source, demo } = project;
@@ -36,11 +36,13 @@ const ProjectItem = ({ project }) => {
       <BtnContainer>
         <ButtonHolder>
           <Btn href={source} target="_blank" rel="noreferrer">
+            <BsGithub />
             <BtnTetx>GitHub</BtnTetx>
           </Btn>
         </ButtonHolder>
         <ButtonHolder>
           <Btn href={demo} target="_blank" rel="noreferrer">
+            <CgWebsite />
             <BtnTetx>Demo</BtnTetx>
           </Btn>
         </ButtonHolder>

@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import DownloadButton from "../../Components/Download-Button/Button.component";
-import resume from "../../assets/CV/Attila Kis-Ivan CV.pdf";
+import resume from "../../assets/CV/Attila Kis-Ivan CV.svg";
 import { Container, ResumeContainer, Section } from "./resume.styles";
 
 const ResumeItem = () => {

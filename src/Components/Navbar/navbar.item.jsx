@@ -11,6 +11,11 @@ import {
   Icon,
   OpenLinksButton,
   SocialIcon,
+  AiOutlineHomeicn,
+  AiOutlineFundProjectionScreenicn,
+  AiOutlineUsericn,
+  AiOutlineFilePdficn,
+  AiOutlineMailicn,
 } from "./navbaritem.styles";
 import LinkedImage from "../../assets/images/inkedI-purple.svg";
 import GithubImage from "../../assets/images/github-purple.svg";
@@ -27,12 +32,23 @@ const Navbar = () => {
               lassName={({ isActive }) => (isActive ? " active" : "")}
               to="/"
             >
+              <AiOutlineHomeicn />
               Home
             </NavbarLink>
-            <NavbarLink to="/about">About</NavbarLink>
-            <NavbarLink to="/projects ">Projects</NavbarLink>
-            <NavbarLink to="/resume">Resume</NavbarLink>
-            <NavbarLink to="/contact">Contact</NavbarLink>
+            <NavbarLink to="/about">
+              <AiOutlineUsericn />
+              About
+            </NavbarLink>
+            <NavbarLink to="/projects ">
+              <AiOutlineFundProjectionScreenicn /> Projects
+            </NavbarLink>
+            <NavbarLink to="/resume">
+              <AiOutlineFilePdficn />
+              Resume
+            </NavbarLink>
+            <NavbarLink to="/contact">
+              <AiOutlineMailicn /> Contact
+            </NavbarLink>
             <OpenLinksButton
               onClick={() => {
                 setExtendNavbar((value) => !value);
