@@ -1,6 +1,6 @@
 import { React, useEffect } from "react";
-// import Skills from "../../Components/Skills/Skills";
-// import Tools from "../../Components/Tools/Tools";
+import Skills from "../../Components/Skills/Skills";
+import Tools from "../../Components/Tools/Tools";
 import about from "../../assets/images/about.png";
 import {
   AboutSection,
@@ -51,12 +51,12 @@ const AboutItem = () => {
           <AboutImage src={about} alt="about" />
         </AboutPictureContainer>
       </AboutContainer>
-      {/* <SkillsPurple>Skillset</SkillsPurple>
+      <SkillsPurple>Skillset</SkillsPurple>
       <Skills />
       <ToolsPurple>
         Tools <ToolsWhite>I use</ToolsWhite>
       </ToolsPurple>
-      <Tools /> */}
+      <Tools />
     </AboutSection>
   );
 };
