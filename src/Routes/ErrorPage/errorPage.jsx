@@ -1,7 +1,7 @@
-import ErrorPage from "../../Components/ErrorPage/errorPage.item";
+import ErrorPageComponent from "../../Components/ErrorPage/error-page.component";
 
-const Error_Page = () => {
-  return <ErrorPage />;
+const ErrorPage = () => {
+  return <ErrorPageComponent />;
 };
 
-export default Error_Page;
+export default ErrorPage;
