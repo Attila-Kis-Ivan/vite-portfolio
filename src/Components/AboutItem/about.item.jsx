@@ -41,7 +41,7 @@ const AboutItem = () => {
               web developer with degree of{" "}
               <Purple>MSc Engineering Management</Purple> from London UK. I fell
               in love with programming in 2020. Currently I'm developing
-              products with <Purple>Ract</Purple> and
+              products with <Purple>React</Purple> and
               <Purple>React-Native</Purple>. I'm interested in AI so Python and
               PyTorch are on the way 😊.
             </Paragraph>
