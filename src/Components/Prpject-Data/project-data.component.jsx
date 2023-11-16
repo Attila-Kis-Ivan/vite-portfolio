@@ -10,9 +10,8 @@ const projects = [
   {
     id: 16,
     title: "React Quiz",
-
     imageUrl:
-      "https://lh3.googleusercontent.com/drive-viewer/AK7aPaA_RbLSjtZLZsrwkRL7Kg9RuVuUVktY1S7gbI2ElA3wopgd8f-MmDFaP8ptUfEh6ICgI-iTjLEQ7StVI4oYTGew9wZN=s1600",
+      "https://lh3.googleusercontent.com/drive-viewer/AK7aPaAzVHPsRYOeEn7bz5adKNRtWp8p9zzUjvY9cEcFejb2b5S_205kQgtxlnUqq77zbnPNF9EBagkVPSZhmhiqRUEAQT9D=s1600",
     description:
       "Used languages: React JS and CSS. This React Quiz made in React. Purpose of this project to get more familiar with Reducer. Created with create-react-app, designed in CSS. The focus was on Reducer. It took 3 weeks to build this page.",
     language: "React",
