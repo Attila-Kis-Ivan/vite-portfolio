@@ -8,13 +8,24 @@ import {
 } from "./project-data.styles";
 const projects = [
   {
+    id: 17,
+    title: "World Traveller",
+    imageUrl:
+      "https://lh3.googleusercontent.com/drive-viewer/AK7aPaDB9SDNztbHkaq3oOX6MSbEQVnH1qQbXLcbp-TAWJ6lLJVCFaC45spDHWuNNjVYfrGdCq-WUGMUjDkLnvzi71Qr6TGhQw=s1600",
+    description:
+      "Used languages: Vite React JS and CSS Modules. Purpose of this project to get more familiar with Reducer and try CSS modules. Database is JSON-Server. The focus was on Reducer. It took 7 weeks to build this page.",
+    language: " Vite React",
+    source: "https://github.com/Attila-Kis-Ivan/World-Traveller",
+    demo: "https://tdbworldtraveller.netlify.app/",
+  },
+  {
     id: 16,
     title: "React Quiz",
     imageUrl:
       "https://lh3.googleusercontent.com/drive-viewer/AK7aPaAzVHPsRYOeEn7bz5adKNRtWp8p9zzUjvY9cEcFejb2b5S_205kQgtxlnUqq77zbnPNF9EBagkVPSZhmhiqRUEAQT9D=s1600",
     description:
-      "Used languages: React JS and CSS. This React Quiz made in React. Purpose of this project to get more familiar with Reducer. Created with create-react-app, designed in CSS. The focus was on Reducer. It took 3 weeks to build this page.",
-    language: "React",
+      "Used languages: Vite React JS and CSS. This React Quiz made in React. Purpose of this project to get more familiar with Reducer. Created with Vite React, designed in CSS. Database is JSON-Server. The focus was on Reducer. It took 3 weeks to build this page.",
+    language: "Vite React",
     source: "https://github.com/Attila-Kis-Ivan/Qiuz",
     demo: "https://tdb-react-quiz.netlify.app/",
   },
@@ -24,8 +35,8 @@ const projects = [
     imageUrl:
       "https://lh3.googleusercontent.com/drive-viewer/AK7aPaBr3IgihJlEZhXqwE9K2d33jfyxG_PhJv1zup6usoBMqnV510fzj0SNb4mFfalKMrkruvA9JekscHo5a5q634lWun6YJQ=s1600",
     description:
-      "Used languages: React JS, Styled-Components. This portfolio site made in React. Purpose of this project obviously to have a portfolio page and practicing React JS. Created with create-react-app, designed in styled-components. It took 4 weeks to build this page.",
-    language: "React",
+      "Used languages: Vite React JS, Styled-Components. Purpose of this project obviously to have a portfolio page and practicing React JS. Created with Vite React, designed in styled-components. It took 4 weeks to build this page.",
+    language: "Vite React",
     source: "https://github.com/Attila-Kis-Ivan/personal-portfolio",
     demo: "https://tdb-coding.com/",
   },
