@@ -9,7 +9,7 @@ export const Input = styled.input`
   font-size: 1.1em;
   font-family: "Montserrat";
   letter-spacing: 2px;
-  color: #0000;
+  color: #000;
   background: #eee;
 
   &:focus {
