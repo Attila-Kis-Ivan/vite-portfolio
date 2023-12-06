@@ -22,7 +22,7 @@ const projects = [
     id: 16,
     title: "React Quiz",
     imageUrl:
-      "https://lh3.googleusercontent.com/drive-viewer/AK7aPaAzVHPsRYOeEn7bz5adKNRtWp8p9zzUjvY9cEcFejb2b5S_205kQgtxlnUqq77zbnPNF9EBagkVPSZhmhiqRUEAQT9D=s1600",
+      "https://lh3.googleusercontent.com/drive-viewer/AK7aPaA9cNH_78nhNOVTOMsyqm-sZ8fTHKht51pCCVc5Q_6SSkwesTa1u7oYXV86UXXawPEEpwIkDfzTGeuVWCNsA9kn1MeH=s1600",
     description:
       "Used languages: Vite React JS and CSS. This React Quiz made in React. Purpose of this project to get more familiar with Reducer. Created with Vite React, designed in CSS. Database is JSON-Server. The focus was on Reducer. It took 3 weeks to build this page.",
     language: "Vite React",
@@ -33,7 +33,7 @@ const projects = [
     id: 15,
     title: "Portfolio Page",
     imageUrl:
-      "https://lh3.googleusercontent.com/drive-viewer/AK7aPaBr3IgihJlEZhXqwE9K2d33jfyxG_PhJv1zup6usoBMqnV510fzj0SNb4mFfalKMrkruvA9JekscHo5a5q634lWun6YJQ=s1600",
+      "https://lh3.googleusercontent.com/drive-viewer/AK7aPaAYGRaoOIQZRBo7W0ZqOf0wWgdi94fKD0x80Gu4eNZNLbv8cOIdFgipwG1wP5XOlJahw1YTDiaCg_r535zC5RjCNOGFNg=s1600",
     description:
       "Used languages: Vite React JS, Styled-Components. Purpose of this project obviously to have a portfolio page and practicing React JS. Created with Vite React, designed in styled-components. It took 4 weeks to build this page.",
     language: "Vite React",
